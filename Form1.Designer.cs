@@ -173,7 +173,7 @@
             this.dtPemesanan.Name = "dtPemesanan";
             this.dtPemesanan.Size = new System.Drawing.Size(482, 203);
             this.dtPemesanan.TabIndex = 14;
-            this.dtPemesanan.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dtPemesanan_CellContentClick);
+            this.dtPemesanan.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dtPemesanan_CellClick);
             // 
             // Form1
             // 
